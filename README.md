@@ -15,7 +15,7 @@ Trabajo de forma independiente, entregando soluciones limpias, documentadas y li
 - 🔭 Desarrollo aplicaciones web fullstack con Python/Django y JavaScript/Node
 - 🌱 Profundizando en arquitecturas serverless y buenas prácticas en cloud
 - 💬 Pregúntame sobre Django, Next.js, Docker o bases de datos relacionales
-- 📫 Contacto: **andres@tudominio.com** *(cámbialo por tu correo real)*
+- 📫 Contacto: **alansuss.20@outlook.com** 
 
 ---
 
