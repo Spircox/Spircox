@@ -63,13 +63,13 @@ Cuando tengas tus primeros repos listos, reemplaza esta sección por algo como:
 -->
 
 ---
-
+<!--
 ## 📊 Estadísticas
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Spircox&show_icons=true&theme=tokyonight&hide_title=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Spircox&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ⭐️ Gracias por pasarte por mi perfil. ¿Tienes un proyecto en mente? **Escríbeme.**
